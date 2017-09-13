@@ -1,0 +1,3 @@
+FROM chihchinag/flask
+CMD ["python3", "/root/app.py"]
+MAINTAINER chihchinag@gmail.com
